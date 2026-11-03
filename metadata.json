@@ -1,0 +1,6 @@
+{
+  "name": "NoorPoint - Islamic Pinterest & Urdu Media Portal",
+  "description": "Discover and upload Naats, Urdu lyrics, Islamic news, poetry, videos, and calligraphy in a Pinterest-style visual feed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
